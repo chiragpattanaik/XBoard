@@ -1,0 +1,86 @@
+.container{
+    width:60vw;
+}
+body{
+    padding:0;
+    margin: 0;
+    background-color: #f8f9fa!important;
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+}
+.navbar{
+    position: absolute;
+width: 1322px;
+height: 91px;
+left: 59px;
+top: 0px;
+
+background: #FFFFFF;
+}
+
+.rectangle{
+    border-radius:4.5px;
+    height: 9px;
+    width: 27px;
+    left: 1px;
+    top: 29px;
+    background: linear-gradient(to right, #E537B9, #C040DF);
+    margin-bottom: 25px;
+    position: absolute;
+    left:11px;
+}
+
+.today
+{
+    position: absolute;
+    width: 74px;
+    height: 32px;
+    left: 71px;
+    top: 123px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 32px;
+    color: #252B42;
+
+
+}
+
+.insights
+{
+position: absolute;
+width: 389px;
+height: 28px;
+left: 74px;
+top: 165px;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+color: #858585;
+
+}
+
+#accordionExample
+{
+
+    width: 1730px;
+    height: 24px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0.1px;
+    color: #737373;
+    /* flex: none; */
+    /* order: 1; */
+    /* flex-grow: 0; */
+    left: 176px;
+    margin: 128px;
+    border-width: 384px;
+}
+
+
+    
